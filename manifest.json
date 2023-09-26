@@ -1,0 +1,19 @@
+{
+    "manifest_version": 3,
+    "name": "iNotebook",
+    "version": "1.0.0",
+    "description": "A simple notebook extension for managing notes.",
+    "icons": {
+      "48": "assets/logo-44ca9e51.png",
+      "128": "assets/logo-44ca9e51.png"
+    },
+    "permissions": [
+      "storage",
+      "activeTab",
+      "scripting"
+    ],
+    "action": {
+      "default_popup": "index.html"
+    }
+}
+  
